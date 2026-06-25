@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Max+%F0%9F%91%8B;Frontend+Developer;Building+interfaces+that+feel+right" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Max+%F0%9F%91%8B;Frontend+Developer+%26+Founder;Piro+Kan+Code+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
@@ -11,21 +11,80 @@
 
 ---
 
+### 🏴‍☠️ Piro Kan Code
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6366F1&height=130&section=header&text=Piro%20Kan%20Code&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+**Студия веб-разработки** · Frontend · Продукты · UI/UX
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎯_Миссия-Продукты,_которыми_хочется_пользоваться-6366F1?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/⚡_Фокус-Веб--приложения_·_SaaS_·_E--commerce-6366F1?style=for-the-badge&labelColor=1e1e2e"/>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Что делаем**
+
+- 🖥 Веб-приложения и личные кабинеты
+- 🛒 E-commerce и корпоративные сайты
+- 🎨 UI/UX, дизайн-системы, анимации
+- 🤖 AI-инструменты для разработчиков
+- 🔧 Поддержка и развитие продуктов
+
+</td>
+<td width="50%" valign="top">
+
+**Как работаем**
+
+- 📋 Сначала разбираемся в задаче — потом пишем код
+- 🚀 Долгосрочное партнёрство, а не разовые проекты
+- ✅ Чистый код, тесты, предсказуемые релизы
+- 💬 Прозрачная коммуникация на каждом этапе
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+#### 🚀 Флагманский продукт — [Netcatty](https://github.com/Libes6/Netcatty)
+
+*AI-powered SSH-клиент · SFTP · терминалы · split views — всё в одном workspace*
+
+<br/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+
+</div>
+
+---
+
 ### 👨‍💻 About Me
 
 ```typescript
 const max = {
   role: "Frontend Developer",
+  company: "Piro Kan Code — founder & lead dev",
   focus: ["UI/UX", "TypeScript", "Vue", "React"],
-  currently: "Building Netcatty — SSH workspace with SFTP & terminals",
+  currently: "Building Netcatty — AI SSH workspace",
   funFact: "Turning pixels into products since 2021",
 };
 ```
 
-- 🔭 Working on **[Netcatty](https://github.com/Libes6/Netcatty)** — all-in-one SSH workspace
-- 🌱 Exploring modern frontend tooling & DX
-- 💡 Love clean code, smooth animations, and thoughtful UX
-- 📫 Reach me via [GitHub Issues](https://github.com/Libes6/Libes6/issues) or open a PR on any of my repos
+- 🏴‍☠️ Основатель **[Piro Kan Code](#-piro-kan-code)** — студии веб-разработки
+- 🔭 Работаю над **[Netcatty](https://github.com/Libes6/Netcatty)** — SSH workspace с AI
+- 🌱 Исследую современный frontend и developer experience
+- 💡 Люблю чистый код, плавные анимации и продуманный UX
+- 📫 Связаться: [GitHub Issues](https://github.com/Libes6/Libes6/issues)
 
 ---
 
@@ -49,7 +108,7 @@ const max = {
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**Netcatty**](https://github.com/Libes6/Netcatty) | — | SSH workspace, SFTP & terminals in one place |
+| [**Netcatty**](https://github.com/Libes6/Netcatty) | Electron · React | AI SSH workspace, SFTP & terminals |
 | [**max-flow**](https://github.com/Libes6/max-flow) | TypeScript | Flow-based tooling |
 | [**vue-energy**](https://github.com/Libes6/vue-energy) | Vue | Vue.js project |
 | [**shabash**](https://github.com/Libes6/shabash) | TypeScript | TypeScript app |
@@ -78,9 +137,9 @@ const max = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Libes6/Libes6/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Libes6/Libes6/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Libes6/Libes6/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Libes6/Libes6/dev/assets/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Libes6/Libes6/dev/assets/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Libes6/Libes6/dev/assets/github-snake.svg">
 </picture>
 
 </div>
@@ -93,6 +152,6 @@ const max = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer&text=Piro%20Kan%20Code%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 </div>
