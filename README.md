@@ -27,7 +27,7 @@
 
 [![Organization](https://img.shields.io/badge/GitHub-pyrocancode-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pyrocancode)
 <img src="https://img.shields.io/badge/🎯_Фокус-Библиотеки_и_инструменты_для_разработчиков-FF6B35?style=for-the-badge&labelColor=1e1e2e"/>
-<img src="https://img.shields.io/badge/⚡_Стек-React_Native_·_TypeScript_·_Kotlin-FF6B35?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/⚡_Стек-React_Native_·_TypeScript_·_Swift_·_Kotlin-FF6B35?style=for-the-badge&labelColor=1e1e2e"/>
 
 </div>
 
@@ -72,7 +72,7 @@
 const max = {
   role: "Frontend Developer",
   company: "pyrocancode — founder",
-  focus: ["React Native", "TypeScript", "Vue", "React"],
+  focus: ["React Native", "TypeScript", "Swift", "React"],
   currently: "Building open-source tools & mobile libraries",
   funFact: "Turning pixels into products since 2021",
 };
@@ -89,14 +89,14 @@ const max = {
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,html,css,sass,nodejs,git,docker,vscode,kotlin&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,swift,kotlin,html,css,sass,nodejs,git,docker,vscode&perline=6" alt="Tech stack" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </p>
 
@@ -111,7 +111,6 @@ const max = {
 | [**telegram-notify-mcp**](https://github.com/pyrocancode/telegram-notify-mcp) | pyrocancode | Telegram MCP-сервис |
 | [**Netcatty**](https://github.com/Libes6/Netcatty) | Personal | AI SSH workspace, SFTP & terminals |
 | [**max-flow**](https://github.com/Libes6/max-flow) | Personal | Flow-based tooling |
-| [**vue-energy**](https://github.com/Libes6/vue-energy) | Personal | Vue.js project |
 
 ---
 
