@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Max+%F0%9F%91%8B;Frontend+Developer;Pyro+Kan+Code+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Max+%F0%9F%91%8B;Frontend+Developer;pyrocancode+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -11,15 +11,15 @@
 
 ---
 
-### 🔥 [Pyro Kan Code](https://github.com/pyrocancode)
+### 🔥 [pyrocancode](https://github.com/pyrocancode)
 
 <div align="center">
 
 <a href="https://github.com/pyrocancode">
-  <img src="https://avatars.githubusercontent.com/u/264336635?s=200&v=4" alt="Pyro Kan Code" width="100" height="100" style="border-radius: 50%"/>
+  <img src="https://avatars.githubusercontent.com/u/264336635?s=200&v=4" alt="pyrocancode" width="100" height="100" style="border-radius: 50%"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FF6B35&height=120&section=header&text=Pyro%20Kan%20Code&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FF6B35&height=120&section=header&text=pyrocancode&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 **Open-source · React Native · Developer Tools · Frontend**
 
@@ -71,14 +71,14 @@
 ```typescript
 const max = {
   role: "Frontend Developer",
-  company: "Pyro Kan Code — founder",
+  company: "pyrocancode — founder",
   focus: ["React Native", "TypeScript", "Vue", "React"],
   currently: "Building open-source tools & mobile libraries",
   funFact: "Turning pixels into products since 2021",
 };
 ```
 
-- 🔥 Основатель **[Pyro Kan Code](https://github.com/pyrocancode)** — компании по разработке веб- и мобильных приложений
+- 🔥 Основатель **[pyrocancode](https://github.com/pyrocancode)** — компании по разработке веб- и мобильных приложений
 - 🔭 Развиваю **[Netcatty](https://github.com/Libes6/Netcatty)** — AI SSH workspace
 - 🌱 Исследую современный frontend и developer experience
 - 💡 Люблю чистый код, плавные анимации и продуманный UX
@@ -106,9 +106,9 @@ const max = {
 
 | Project | Org | Description |
 |---------|-----|-------------|
-| [**react-native-vk-auth**](https://github.com/pyrocancode/react-native-vk-auth) | Pyro Kan Code | VK авторизация для React Native |
-| [**react-native-vpn-detector**](https://github.com/pyrocancode/react-native-vpn-detector) | Pyro Kan Code | Детектор VPN-подключения |
-| [**telegram-notify-mcp**](https://github.com/pyrocancode/telegram-notify-mcp) | Pyro Kan Code | Telegram MCP-сервис |
+| [**react-native-vk-auth**](https://github.com/pyrocancode/react-native-vk-auth) | pyrocancode | VK авторизация для React Native |
+| [**react-native-vpn-detector**](https://github.com/pyrocancode/react-native-vpn-detector) | pyrocancode | Детектор VPN-подключения |
+| [**telegram-notify-mcp**](https://github.com/pyrocancode/telegram-notify-mcp) | pyrocancode | Telegram MCP-сервис |
 | [**Netcatty**](https://github.com/Libes6/Netcatty) | Personal | AI SSH workspace, SFTP & terminals |
 | [**max-flow**](https://github.com/Libes6/max-flow) | Personal | Flow-based tooling |
 | [**vue-energy**](https://github.com/Libes6/vue-energy) | Personal | Vue.js project |
@@ -150,8 +150,8 @@ const max = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=100&section=footer&text=Pyro%20Kan%20Code%20%F0%9F%94%A5&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=100&section=footer&text=pyrocancode+%F0%9F%94%A5&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-[![Pyro Kan Code](https://img.shields.io/badge/GitHub-pyrocancode-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pyrocancode)
+[![pyrocancode](https://img.shields.io/badge/GitHub-pyrocancode-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pyrocancode)
 
 </div>
