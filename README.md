@@ -71,14 +71,14 @@
 ```typescript
 const max = {
   role: "Frontend Developer",
-  company: "Pyro Kan Code — github.com/pyrocancode",
+  company: "Pyro Kan Code — founder",
   focus: ["React Native", "TypeScript", "Vue", "React"],
   currently: "Building open-source tools & mobile libraries",
   funFact: "Turning pixels into products since 2021",
 };
 ```
 
-- 🔥 Работаю в **[Pyro Kan Code](https://github.com/pyrocancode)** — open-source организации
+- 🔥 Основатель **[Pyro Kan Code](https://github.com/pyrocancode)** — компании по разработке веб- и мобильных приложений
 - 🔭 Развиваю **[Netcatty](https://github.com/Libes6/Netcatty)** — AI SSH workspace
 - 🌱 Исследую современный frontend и developer experience
 - 💡 Люблю чистый код, плавные анимации и продуманный UX
